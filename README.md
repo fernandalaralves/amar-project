@@ -1,4 +1,4 @@
-# A.M.A.R - Assistência e Mediação no Aprendizado do Espectro Autista
+# A.M.A.R - Assistência e Mediação no Aprendizado Repensado no Espectro Autista
 
 O A.M.A.R é uma plataforma web que auxilia professores a criar metodologias de ensino personalizadas para crianças atípicas (TEA), conectando os hiperfocos dos alunos a conteúdos pedagógicos por meio de Inteligência Artificial Generativa.
 
